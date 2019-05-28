@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HW2</string>
+    <string name="hint">Shake me!</string>
+    <string name="title_activity_ball">Ball</string>
+    <string-array name="values">
+        <item>It is certain.</item>
+        <item>It is decidedly so.</item>
+        <item>Without a doubt.</item>
+        <item>Yes - definitely.</item>
+        <item>You may rely on it.</item>
+        <item>Reply hazy, try again.</item>
+        <item>Better not tell you now.</item>
+        <item> Concentrate and ask again</item>
+        <item>Dont count on it.</item>
+        <item>My sources say no.</item>
+        <item>Very doubtful.</item>
+        <item>Cannot predict now</item>
+    </string-array>
+    <string name="result">result</string>
+</resources>
