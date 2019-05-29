@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">HW2</string>
-    <string name="hint">Shake me!</string>
     <string name="title_activity_ball">Ball</string>
     <string-array name="values">
         <item>It is certain.</item>

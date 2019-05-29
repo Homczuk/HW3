@@ -61,7 +61,7 @@ public class MainActivity extends AppCompatActivity implements SensorEventListen
 
     }
 
-    public void update( double speed){
+    public void update(double speed){
         ImageView ball = findViewById(R.id.empty_ball);
         TextView value = findViewById(R.id.result);
         ball.setImageResource(R.drawable.hw3ball_empty);
